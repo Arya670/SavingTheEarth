@@ -133,6 +133,7 @@ drawSprites();
 fill("white");
 textSize(20);
 text("Score: "+score,width-100,50);
+text("press'space' to shoot",width/2,height-80);
 
 
 }
